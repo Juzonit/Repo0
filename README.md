@@ -1,2 +1,2 @@
 # Repo0
-First, Hello-World repository
+Hello-World repository
